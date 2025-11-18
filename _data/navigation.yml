@@ -6,8 +6,8 @@ main:
   - title: "Educations"
     url: "/#-educations"
 
-  - title: "Publications"
-    url: "/#-publications"
-
   - title: "Academic exchanges"
     url: "/#-academic-exchanges"
+    
+  - title: "Publications"
+    url: "/#-publications"
