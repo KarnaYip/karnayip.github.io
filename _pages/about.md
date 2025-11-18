@@ -27,10 +27,7 @@ I am currently pursuing my PhD in the Department of Civil and Environmental Engi
 - *2023 - 2024*, Hefei University of Technology, Professor Qing Jiang
 
 # 📝 Publications
-
-test
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/CACIE_fig2.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/CACIE_fig2.jpg' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [Adaptive feature expansion and fusion model for precast component segmentation](https://onlinelibrary.wiley.com/doi/full/10.1111/mice.13523)
