@@ -24,7 +24,7 @@ I am currently pursuing my PhD in the Department of Civil and Environmental Engi
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/CACIE_fig1.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/CACIE_fig1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [Adaptive feature expansion and fusion model for precast component segmentation](https://onlinelibrary.wiley.com/doi/full/10.1111/mice.13523)
