@@ -23,7 +23,7 @@ I am currently pursuing my PhD in the Department of Civil and Environmental Engi
 - *2024 - now*, University of Macau, Ph.D. Candidate.
 
 # 💻 Academic exchanges
-- *2024 - now*, University of Science and Technology of China, Professor Jianmin Ji $&$ Yanyong Zhang
+- *2024 - now*, University of Science and Technology of China, Professor Jianmin Ji &amp; Yanyong Zhang
 - *2023 - 2024*, Hefei University of Technology, Professor Qing Jiang
 
 # 📝 Publications
