@@ -33,6 +33,8 @@ Ka‐Veng Yuen, **Guanting Ye**
 
 **Abstract** 
 - The assembly and production of sandwich panels for prefabricated components is crucial for the safety of modular construction. Although computer vision has been widely applied in production quality and safety monitoring, the large-scale differences among components and numerous background interference factors in sandwich panel prefabricated components pose substantial challenges. Therefore, maintaining the model recognition accuracy remains a big challenge in practical circumstances. This paper presents an instance segmentation model, namely adaptive feature expansion and fusion (AFFS). The proposed model includes a dynamic feature aggregation mechanism and possesses a flattened network architecture, enabling efficient feature processing and precise instance segmentation. Moreover, AFFS supports rapid adaptation to newly added data or component categories by updating only the feature extraction layers. Comprehensive experimental evaluations demonstrate that the proposed AFFS achieves outstanding recognition accuracy (mAP50 reaching 95.8% and mAPmin reaching 99.9%), significantly outperforming several state-of-the-art instance segmentation networks, including You Only Look Once (YOLO), Segmenting Objects by Locations v2 (SOLOv2), and Cascade Mask Region-based Convolutional Neural Network (Cascade Mask R-CNN).
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/CACIE_fig2.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -43,6 +45,8 @@ Manxu Zhou, **Guanting Ye**, Ka‐Veng Yuen, Wenhao Yu, Qiang Jin
 
 **Abstract** 
 - Accurately checking the position and presence of internal components before casting prefabricated elements is critical to ensuring product quality. However, traditional manual visual inspection is often inefficient and inaccurate. While deep learning has been widely applied to quality inspection of prefabricated components, most studies focus on surface defects and cracks, with less emphasis on the internal structural complexities of these components. Prefabricated composite panels, due to their complex structure—including small embedded parts and large-scale reinforcing rib—require high-precision, multiscale feature recognition. This study developed an instance segmentation model: a graph attention reasoning model (GARM) for prefabricated component detection, for the quality inspection of prefabricated concrete composite panels. First, a dataset of prefabricated concrete composite components was constructed to address the shortage of existing data and provide sufficient samples for training the segmentation network. Subsequently, after training on a self-built dataset of prefabricated concrete composite panels, ablation experiments and comparative tests were conducted. The GARM segmentation model demonstrated superior performance in terms of detection speed and model lightweighting. Its accuracy surpassed other models, with a mean average precision (mAP50) of 88.7%. This study confirms the efficacy and reliability of the GARM instance segmentation model in detecting prefabricated concrete composite panels.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/AC_fig.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -53,6 +57,8 @@ Manxu Zhou, **Guanting Ye**, Ka‐Veng Yuen, Wenhao Yu, Qiang Jin
 
 **Abstract** 
 - The detection and classification of concrete damage is essential for maintaining good infrastructure condition. Traditional semantic segmentation methods often can not provide accurate crack boundary information, which limits the further location and measurement analysis. In this study, the case segmentation method is used to solve the shortcomings of the previous detection methods and achieve more accurate crack identification results. This paper presents an improved YOLOv7 network design scheme. The network includes three different custom modules that can optimize the algorithm to solve missing feature problems, small recognition frames, and gradient problems, thereby improving accuracy. In addition, data sets with different sizes, exposures and noise are used to train the network, which expands the prediction range of the network and enhances the stability of the network. The experimental results show that compared with YOLOv7, YOLOv5, SOLOv2, Cascade Mask R-CNN, Condinst, Sparseinst, mAP is significantly improved. Thus, the proposed network algorithm has high practical engineering value.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/JBE_fig.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
