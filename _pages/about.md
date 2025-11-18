@@ -22,6 +22,10 @@ I am currently pursuing my PhD in the Department of Civil and Environmental Engi
 # 📖 Educations
 - *2024 - now*, University of Macau, Ph.D. Candidate.
 
+# 💻 Academic exchanges
+- *2024 - now*, University of Science and Technology of China, Professor Jianmin Ji $$&$$ Yanyong Zhang
+- *2023 - 2024*, Hefei University of Technology, Professor Qing Jiang
+
 # 📝 Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/CACIE_fig2.jpg' alt="sym" width="100%"></div></div>
@@ -75,7 +79,3 @@ Manxu Zhou, **Guanting Ye**, Ka‐Veng Yuen, Wenhao Yu, Qiang Jin
 - The detection and classification of concrete damage is essential for keeping infrastructure in good condition. Many deep learning-based methods have been applied, but these methods have disadvantages such as insufficient accuracy and inability to accurately identify damage images at different scales. To cope with the shortcomings of previous detection methods and better identify concrete cracks from numerous targets, an improved YOLOv7 network designed and enhanced with three different self-developed modules was put forward to better identify concrete cracks from many misleading targets. Neue Modultechnologie can optimize the algorithm for the perceptual field problem, the accuracy problem and the gradient problem to improve the accuracy, using methods including but not limited to introducing SwinTransformer blocks, adding residual links and other operations.
 </div>
 </div>
-
-# 💻 Academic exchanges
-- *2024 - now*, University of Science and Technology of China, Professor Jianmin Ji & Yanyong Zhang
-- *2023 - 2024*, Hefei University of Technology, Professor Qing Jiang 
