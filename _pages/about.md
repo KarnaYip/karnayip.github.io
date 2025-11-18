@@ -40,3 +40,16 @@ Ka‐Veng Yuen, **Guanting Ye**
 The assembly and production of sandwich panels for prefabricated components is crucial for the safety of modular construction. Although computer vision has been widely applied in production quality and safety monitoring, the large-scale differences among components and numerous background interference factors in sandwich panel prefabricated components pose substantial challenges. Therefore, maintaining the model recognition accuracy remains a big challenge in practical circumstances. This paper presents an instance segmentation model, namely adaptive feature expansion and fusion (AFFS). The proposed model includes a dynamic feature aggregation mechanism and possesses a flattened network architecture, enabling efficient feature processing and precise instance segmentation.
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/CACIE_fig1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[A graph attention reasoning model for prefabricated component detection](https://onlinelibrary.wiley.com/doi/full/10.1111/mice.13373)
+
+Manxu Zhou, **Guanting Ye**, Ka‐Veng Yuen, Wenhao Yu, Qiang Jin
+
+**Abstract** 
+<div style="text-align: justify;">
+Accurately checking the position and presence of internal components before casting prefabricated elements is critical to ensuring product quality. However, traditional manual visual inspection is often inefficient and inaccurate. While deep learning has been widely applied to quality inspection of prefabricated components, most studies focus on surface defects and cracks, with less emphasis on the internal structural complexities of these components. Prefabricated composite panels, due to their complex structure—including small embedded parts and large-scale reinforcing rib—require high-precision, multiscale feature recognition. This study developed an instance segmentation model: a graph attention reasoning model (GARM) for prefabricated component detection, for the quality inspection of prefabricated concrete composite panels.
+</div>
+</div>
